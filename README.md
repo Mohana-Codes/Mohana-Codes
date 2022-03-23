@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohana
-- 👀 I’m interested in ... learning about techlogy
+- 👀 I’m interested in ... learning about technology
 - 🌱 I’m currently learning ...html/css/javascript
 
 <!---
